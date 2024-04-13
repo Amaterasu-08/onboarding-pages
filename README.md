@@ -1,8 +1,10 @@
-# React + Vite
+# onboarding Pages
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Made an onboarding pages site for a fitness app using 
+##React js + tailwind css + vite
+The app exclusive mobile responsive for mobile screen of any parameter.
 
-Currently, two official plugins are available:
+##How to use:
+just click on the screen to go from one page to another. Didnt use react-router-dom as all the pages have the same use of delivering instruction to the app and basic registration
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+link to live site : [onboarding-pages.netlify.app](https://onboarding-pages.netlify.app/)
